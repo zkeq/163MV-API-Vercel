@@ -8,7 +8,7 @@
 
 - API 的示例地址为 https://163.icodeq.com
 
-- 使用具体方法参见：[归档 | 全自动解析 微博/微信 视频](https://icodeq.com/2022/03e4ec0968c8/)
+- 使用具体方法参见：[归档 | 全自动解析 微博/微信 视频](https://icodeq.com/2022/03e4ec0968c8/#%E7%BD%91%E6%98%93MV%EF%BC%88%E5%85%A8%E8%87%AA%E5%8A%A8%E9%80%86%E5%90%91%E7%BC%93%E5%AD%98%E7%89%88%EF%BC%89-%E6%96%B0%E5%A2%9E)
 
 ```python
 https://163.icodeq.com/?vid={vid}
