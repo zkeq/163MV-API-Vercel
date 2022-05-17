@@ -39,6 +39,7 @@ class handler(BaseHTTPRequestHandler):
             url = get_video(vid=self.path.split('?vid=')[1])
         except IndexError:
             url = get_video('10968017')
+        url = url.replace('https://', 'http://')
         self.send_response(308)
         self.send_header('Access-Control-Allow-Origin', '*')
         self.send_header('location', url)
