@@ -29,3 +29,5 @@ https://163.icodeq.com/?vid={vid}
 6. 键名为： `PASSWORD` ，值为你 `Redis` 密码的一条数据
 
 7. 重新部署即可使用 
+
+https ---> http
